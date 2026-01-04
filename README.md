@@ -2,7 +2,7 @@
 ## 📌 Oque é?
 Bot utilitário para Discord desenvolvido em Node.js utilizando discord.js, focado em automação e gerenciamento de tarefas através de comandos personalizados.
 
-## ⚙️ O que ele faz
+## ⚙️ O que ela faz?
 Executa comandos personalizados definidos pelo usuário
 Envia arquivos automaticamente para um canal específico do servidor
 Responde comandos em qualquer canal
